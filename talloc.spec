@@ -1,11 +1,11 @@
 Summary:	Hierarchical pool based memory system
 Name:		talloc
-Version:	2.0.7
+Version:	2.0.8
 Release:	1
 License:	LGPL v3+
 Group:		Libraries
 Source0:	http://samba.org/ftp/talloc/talloc-%{version}.tar.gz
-# Source0-md5:	dbfb3146f4cc47054e13b8a2988299f9
+# Source0-md5:	7857200b58a8617ca18fe2c91296cd93
 URL:		http://talloc.samba.org/
 BuildRequires:	autoconf
 BuildRequires:	docbook-style-xsl
